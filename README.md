@@ -161,6 +161,3 @@ forge test
 ```
 
 Forked integration tests are built off of the MakerDAO staging environment on Tenderly. Prior to running the tests, ensure that the `TENDERLY_STAGING_URL` environment variable is set to the correct RPC URL.
-
-***
-*The IP in this repository was assigned to Mars SPC Limited in respect of the MarsOne SP*
