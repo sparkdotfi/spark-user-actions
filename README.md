@@ -161,3 +161,13 @@ forge test
 ```
 
 Forked integration tests are built off of the MakerDAO staging environment on Tenderly. Prior to running the tests, ensure that the `TENDERLY_STAGING_URL` environment variable is set to the correct RPC URL.
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [Spark User Actions](https://www.chainsecurity.com/security-audit/spark-user-actions/) | 2024-09-04 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
